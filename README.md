@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋 I'm David
 
-<!--
-**David-Carrasco/David-Carrasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davidcarrascocunado-informational?style=flat-square&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/davidcarrascocunado)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My skills
+
+#### 🏗️ My common tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=white)
+![Spark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=apache-spark&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=white)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=Python&logoColor=white)
+
+#### ☁️ Cloud Providers
+
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat-square&logo=amazon-aws)
+
+### My GitHub's activity
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=David-Carrasco&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Carrasco&hide=TeX&layout=compact)
